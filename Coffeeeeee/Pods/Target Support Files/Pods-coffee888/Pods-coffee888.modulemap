@@ -1,0 +1,6 @@
+framework module Pods_coffee888 {
+  umbrella header "Pods-coffee888-umbrella.h"
+
+  export *
+  module * { export * }
+}

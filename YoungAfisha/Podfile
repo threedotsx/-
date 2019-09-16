@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+# add pods for desired Firebase products
+# https://firebase.google.com/docs/ios/setup#available-pods
+target 'YoungAfisha' do
+
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'Firebase/Storage'
+pod 'SVProgressHUD'
+pod 'ChameleonFramework'
+pod 'Alamofire'
+pod 'Moya/RxSwift'
+end

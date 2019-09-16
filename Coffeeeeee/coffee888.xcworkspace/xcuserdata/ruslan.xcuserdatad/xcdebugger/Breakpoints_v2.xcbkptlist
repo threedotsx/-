@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x10a077674">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in coffee888.DataService.getAllFeedMessages(handler: (Swift.Array&lt;coffee888.Message&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "coffee888"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/coffee888/coffee888/dataServices/dataService.swift"
+                  timestampString = "574864898.506673"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1684">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "coffee888/AuthCodeViewController.swift"
+            timestampString = "576328776.6000969"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "AuthCodeViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coffee888.AuthCodeViewController.userDefaults.getter : __C.NSUserDefaults"
+                  moduleName = "coffee888"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/Coffeeeeee/coffee888/AuthCodeViewController.swift"
+                  timestampString = "590277685.0566911"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coffee888.AuthCodeViewController.userDefaults.setter : __C.NSUserDefaults"
+                  moduleName = "coffee888"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/Coffeeeeee/coffee888/AuthCodeViewController.swift"
+                  timestampString = "590277685.06198"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coffee888.AuthCodeViewController.userDefaults.modify : __C.NSUserDefaults"
+                  moduleName = "coffee888"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/Coffeeeeee/coffee888/AuthCodeViewController.swift"
+                  timestampString = "590277685.065706"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coffee888.AuthCodeViewController.userDefaults.modify : __C.NSUserDefaults with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "coffee888"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/Coffeeeeee/coffee888/AuthCodeViewController.swift"
+                  timestampString = "590277685.068473"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coffee888.AuthCodeViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; coffee888.AuthCodeViewController"
+                  moduleName = "coffee888"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/Coffeeeeee/coffee888/AuthCodeViewController.swift"
+                  timestampString = "590277685.070773"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "coffee888.AuthCodeViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;coffee888.AuthCodeViewController&gt;"
+                  moduleName = "coffee888"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ruslan/Desktop/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/Coffeeeeee/coffee888/AuthCodeViewController.swift"
+                  timestampString = "590277685.079271"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "8"
+                  endingLineNumber = "8"
+                  offsetFromSymbolStart = "307">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.AddressBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "*0x10cdb3416">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  usesParentBreakpointCondition = "Yes"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
